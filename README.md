@@ -1,7 +1,7 @@
 # Project
 Catatan:
 
-Ceritakan lebih detail project Anda
-Siapa yang akan menggunakan
-Bagaimana menggunakannya
-Model pengembangan apa yang digunakan untuk membangun sistem
+1.Ceritakan lebih detail project Anda
+2. Siapa yang akan menggunakan
+3. Bagaimana menggunakannya
+4. Model pengembangan apa yang digunakan untuk membangun sistem
