@@ -1,0 +1,15 @@
+SubClass UML
+
+1. kelas pengguna : 
+nama
+alamat
+no_hp
+
+2. Kelas Driver Supir
+nama_driver
+
+3. Kelas Emergencry
+nama_pasien
+alamat
+keterangan
+status
